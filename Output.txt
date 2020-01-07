@@ -1,0 +1,1562 @@
+Enter Number of Philosopher
+5
+Philosopher 1 :	Thinking
+Philosopher 2 :	Thinking
+Philosopher 4 :	Thinking
+Philosopher 5 :	Thinking
+Philosopher 3 :	Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down right fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 4 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 1 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 1 : Put down right fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 5 : Put down right fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 5 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 4 :	Thinking
+Philosopher 5 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 3 :	Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 2 :	Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 :	Thinking
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 : Put down right fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 4 :	Thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 5 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 5 : Picked up left fork
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 4 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 2 :	Thinking
+Philosopher 1 : Picked up right fork - 	 Start Eating
+Philosopher 3 : Put down right fork
+Philosopher 1 : Put down right fork
+Philosopher 3 : Put down left fork. 	Back to thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Put down left fork. 	Back to thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 :	Thinking
+Philosopher 2 : Picked up right fork - 	 Start Eating
+Philosopher 4 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Picked up left fork
+Philosopher 1 :	Thinking
+Philosopher 2 : Put down right fork
+Philosopher 4 : Put down right fork
+Philosopher 2 : Put down left fork. 	Back to thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 :	Thinking
+Philosopher 4 : Put down left fork. 	Back to thinking
+Philosopher 5 : Picked up right fork - 	 Start Eating
+Philosopher 5 : Put down right fork
+Philosopher 2 : Picked up left fork
+Philosopher 5 : Put down left fork. 	Back to thinking
+Philosopher 4 :	Thinking
+Philosopher 3 : Picked up right fork - 	 Start Eating
+Philosopher 5 :	Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down right fork
